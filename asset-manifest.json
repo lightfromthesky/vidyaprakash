@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vidyaprakash/static/css/main.7cb82794.css",
-    "main.js": "/vidyaprakash/static/js/main.92ca5648.js",
+    "main.css": "/vidyaprakash/static/css/main.c5e0a842.css",
+    "main.js": "/vidyaprakash/static/js/main.8706f5ce.js",
     "static/js/488.9c92ff38.chunk.js": "/vidyaprakash/static/js/488.9c92ff38.chunk.js",
     "index.html": "/vidyaprakash/index.html",
-    "main.7cb82794.css.map": "/vidyaprakash/static/css/main.7cb82794.css.map",
-    "main.92ca5648.js.map": "/vidyaprakash/static/js/main.92ca5648.js.map",
+    "main.c5e0a842.css.map": "/vidyaprakash/static/css/main.c5e0a842.css.map",
+    "main.8706f5ce.js.map": "/vidyaprakash/static/js/main.8706f5ce.js.map",
     "488.9c92ff38.chunk.js.map": "/vidyaprakash/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb82794.css",
-    "static/js/main.92ca5648.js"
+    "static/css/main.c5e0a842.css",
+    "static/js/main.8706f5ce.js"
   ]
 }
